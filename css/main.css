@@ -91,7 +91,7 @@
   color: var(--color-white-main);
 }
 
-.main-content__hero {
+.section.main-content__hero {
   background-color: var(--color-grey-background-hero);
   background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/backgrnd-studio-hero.jpg);
   background-repeat: no-repeat;
